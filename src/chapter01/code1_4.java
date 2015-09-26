@@ -1,4 +1,4 @@
-package chapter9_1;
+package chapter01;
 
 /**
  * Created by bean on 12/20/14.
