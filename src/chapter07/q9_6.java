@@ -72,7 +72,7 @@ public class q9_6 {
             System.out.println(list.get(i));
         */
 
-        
+
         Set<String> set = generateParens(3);
         for(String str: set){
             System.out.println(str);
